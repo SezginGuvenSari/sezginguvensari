@@ -13,13 +13,13 @@
 <h3 align="left">  🚀🎮 Projects and Games:</h3>
 <p align="left">
 
-- [Dressmaker 3D](https://play.google.com/store/apps/details?id=com.ModaGames.Dressmaker3D&hl=tr&gl=US)
-- [Slinky Jumper 3D](https://play.google.com/store/apps/details?id=com.ITCPLAY.SlinkyJumper3D&hl=tr&gl=US)
-- [Color Cube 3D](https://play.google.com/store/apps/details?id=com.ITCPLAY.ColorCube3D&hl=tr&gl=US)
-- [Escape Ball 3D](https://play.google.com/store/apps/details?id=com.ITCPLAY.EscapeBall3D&hl=tr&gl=US)
-- [Bubble Rush](https://play.google.com/store/apps/details?id=com.ModaGames.BubbleRush&hl=tr&gl=US)
-- [Couple Dolls](https://play.google.com/store/apps/details?id=com.ModaGames.CoupleDolls&hl=tr&gl=US)
-- [Twister Untangle](https://play.google.com/store/apps/details?id=com.ModaGames.TwisterUntangle&hl=tr&gl=US)
+- 🧩[Dressmaker 3D](https://play.google.com/store/apps/details?id=com.ModaGames.Dressmaker3D&hl=tr&gl=US)
+- 🧩[Slinky Jumper 3D](https://play.google.com/store/apps/details?id=com.ITCPLAY.SlinkyJumper3D&hl=tr&gl=US)
+- 🧩[Color Cube 3D](https://play.google.com/store/apps/details?id=com.ITCPLAY.ColorCube3D&hl=tr&gl=US)
+- 🧩[Escape Ball 3D](https://play.google.com/store/apps/details?id=com.ITCPLAY.EscapeBall3D&hl=tr&gl=US)
+- 🧩[Bubble Rush](https://play.google.com/store/apps/details?id=com.ModaGames.BubbleRush&hl=tr&gl=US)
+- 🧩[Couple Dolls](https://play.google.com/store/apps/details?id=com.ModaGames.CoupleDolls&hl=tr&gl=US)
+- 🧩[Twister Untangle](https://play.google.com/store/apps/details?id=com.ModaGames.TwisterUntangle&hl=tr&gl=US)
 
 
 
